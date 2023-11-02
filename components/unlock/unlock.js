@@ -209,6 +209,9 @@ function MyComponent(props) {
         if (name === 'MetaMask') {
           url = '/connectors/icn-metamask.svg'
           descriptor= 'Connect to your MetaMask wallet'
+        } else if (name === 'XDEFI') {
+          url = '/connectors/icn-xdefi.svg'
+          descriptor= 'Connect to your XDEFI Wallet'
         } else if (name === 'WalletConnect') {
           url = '/connectors/walletConnectIcon.svg'
           descriptor= 'Scan with WalletConnect to connect'

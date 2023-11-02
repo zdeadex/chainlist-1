@@ -79,6 +79,7 @@ export default function Chain({ chain }) {
     if(account && account.address) {
       const providerTextList = {
         Metamask: 'Add to Metamask',
+        XDEFI: 'Add to XDEFI',
         imToken: 'Add to imToken',
         Wallet: 'Add to Wallet'
       }

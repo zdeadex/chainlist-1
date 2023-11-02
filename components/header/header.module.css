@@ -22,6 +22,9 @@
 .metamask {
   background-image: url('/connectors/icn-metamask.svg');
 }
+.xdefi {
+  background-image: url('/connectors/icn-xdefi.svg');
+}
 .imtoken {
   background-image: url('/connectors/icn-imtoken.svg');
 }
